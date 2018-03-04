@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "pm2 start ./bin/www --name='frontend' --watch -o ./logs/frontend-out.log -e ./logs/frontend-err.log"
+    "start": "pm2-runtime ./bin/www --name='frontend' --watch -o ./logs/frontend-out.log -e ./logs/frontend-err.log"
   },
   "dependencies": {
     "body-parser": "~1.18.2",
