@@ -11,3 +11,7 @@
 [0mGET / [32m200 [0m1913.595 ms - 177[0m
 [0mGET /stylesheets/style.css [32m200 [0m12.044 ms - 111[0m
 0 application online, exiting
+[33m[nodemon] 1.17.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node ./bin/www`[39m
