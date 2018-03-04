@@ -1,0 +1,13 @@
+
+> journai-frontend@0.0.0 start /home/Journai/journai-frontend
+> pm2-runtime ./bin/www --name='frontend' --watch -o ./logs/frontend-out.log -e ./logs/frontend-err.log
+
+[2018-03-04 00:23:31] PM2 log: Launching in no daemon mode
+
+> journai-frontend@0.0.0 start /home/Journai/journai-frontend
+> pm2-runtime ./bin/www --name='frontend' --watch -o ./logs/frontend-out.log -e ./logs/frontend-err.log
+
+[WARN] PM2 Daemon is already running
+[0mGET / [32m200 [0m1913.595 ms - 177[0m
+[0mGET /stylesheets/style.css [32m200 [0m12.044 ms - 111[0m
+0 application online, exiting
